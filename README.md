@@ -2,6 +2,6 @@ This is a console version of Rock Paper Scissors, the first Javascript project f
 
 Future goals: 
 1. Refactor the win checking to be more elegant than 9 if statements
-2. Build UI
+~~2. Build UI~~
 
 Made by: Will DeBernardi, 12/27/20
